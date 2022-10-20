@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-[link do projeto]()
+[link do projeto](https://github.com/LevyStevam/Jogo-do-mario)
 
 ## Tecnologias: 
  
