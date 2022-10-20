@@ -15,7 +15,7 @@ const loop = setInterval(()=>{
         tubo.style.left = `${tuboposition}px`;
         mario.style.animation = 'none';
         mario.style.bottom = `${marioposition}px`;
-        mario.src = '../assets/the-rock.png';
+        mario.src = './assets/the-rock.png';
         mario.style.width = '75px';
         mario.style.marginleft= '50px';
         clearInterval(loop);
